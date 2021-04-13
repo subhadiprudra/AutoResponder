@@ -48,6 +48,7 @@ public class FirstScreen extends AppCompatActivity {
             @Override
             public void onAnimationEnd(Animator animation) {
                 startActivity(new Intent(FirstScreen.this,MainActivity.class));
+                finish();
             }
 
             @Override

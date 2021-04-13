@@ -73,7 +73,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="10dp"
-                android:layout_marginTop="20dp">
+                android:layout_marginTop="20dp"
+                android:id="@+id/wpBtn">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -137,7 +138,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="10dp"
-                android:layout_marginTop="20dp">
+                android:layout_marginTop="20dp"
+                android:id="@+id/messengerBtn">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -201,7 +203,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="10dp"
-                android:layout_marginTop="20dp">
+                android:layout_marginTop="20dp"
+                android:id="@+id/telBtn">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -264,7 +267,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="10dp"
-                android:layout_marginTop="20dp">
+                android:layout_marginTop="20dp"
+                android:id="@+id/instaBtn">
 
                 <RelativeLayout
                     android:layout_width="match_parent"
